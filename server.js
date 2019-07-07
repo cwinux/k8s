@@ -1,4 +1,3 @@
-minikube/server.js 
 var http = require('http');
 
 var handleRequest = function(request, response) {
